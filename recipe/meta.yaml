@@ -49,6 +49,7 @@ test:
     - galaxy.util
     - galaxy.util.custom_logging
     - galaxy.util.path
+    - galaxy.util.template
     - galaxy.util.tool_shed
 
 about:
